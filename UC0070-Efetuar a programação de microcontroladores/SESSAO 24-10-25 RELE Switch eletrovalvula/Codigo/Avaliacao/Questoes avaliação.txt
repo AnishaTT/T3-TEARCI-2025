@@ -1,0 +1,3 @@
+2. Não. A eletroválvula deve trabalhar em uma temperatura entre -5 °C e 40 °C.
+3. Não. A pressão recomendada pelo fornecedor é de 43,511 psi a 116,03 psi; 120 psi ultrapassa o limite recomendado.
+4. Sim. A válvula está protegida contra poeira e jatos de água, com proteção IP65.
